@@ -1,5 +1,5 @@
-## Waffle.io Hackshop
+## Event Planner
 
-[![Stories Ready to Work On](https://badge.waffle.io/Allen616/event-organizer.svg?label=ready&title=Cards%20Ready%20To%20Work%20On)](https://waffle.io/Allen616/event-organizer)
+Trying to use Github's projects to help manage non coding activities, like event managmenet.
 
-This repo was created from http://hackshop.waffle.io. Use [the Waffle board](https://waffle.io/Allen616/event-organizer) for this repo to always know what to do next for your hackshop project!
+This repo was originally created from our friends at the late, great, [Waffle](http://hackshop.waffle.io)
